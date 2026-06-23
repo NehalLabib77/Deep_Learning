@@ -250,3 +250,5 @@ This entire process transforms raw pixels into a high-level semantic understandi
 **Memory sentence:**
 
 > CNNs scan an image with small learned filters, keep important features, reduce image size, and combine simple features into object recognition.
+
+**Confidence:** High
